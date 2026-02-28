@@ -374,6 +374,11 @@ header .fa-bars{
 
 
 /* Review Section */
+
+.review{
+    position: relative;
+}
+
 .review-slider{
     overflow: hidden;
     position: relative;
